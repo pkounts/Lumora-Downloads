@@ -1,8 +1,8 @@
 # Lumora Player para Android
 
-[Baixar a versão mais recente](https://github.com/pkounts/Lumora-Downloads/releases/latest)
+[Baixar a versão mais recente](https://github.com/pkounts/Lumora-Downloads/releases/latest/download/lumora-player.apk)
 
-Abra o release e baixe o arquivo com a extensão `.apk`. O Lumora Player requer Android 8.0 ou posterior.
+O Lumora Player requer Android 8.0 ou posterior.
 
 Se você tem a versão de teste instalada, o Android pode pedir que você a desinstale para instalar a versão de produção. Isso pode apagar as configurações salvas apenas no aparelho.
 
